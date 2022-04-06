@@ -1,0 +1,1 @@
+{"name":"Local: segment_tree_mx_mn","url":"c:\\Users\\Dell\\Documents\\algorithm\\segment_tree_mx_mn.cpp","tests":[{"id":1646394258392,"input":"8\n2 3\n3 5 7 -3 -6 0 1 2","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Dell\\Documents\\algorithm\\segment_tree_mx_mn.cpp","group":"local","local":true}
